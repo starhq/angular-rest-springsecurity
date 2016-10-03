@@ -1,0 +1,1 @@
+不错的关于spring security restful的例子,虽然是spring boot的版本，有很高的借鉴价值
